@@ -21,7 +21,7 @@ This headset gives off one of the best VR experience and has an popular company,
 ---
 ### The third selling one is called the **Sony PlayStation VR**.
 
-![sony playstation VR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUmBcNfVLWptQ0PXM_F38IKCFD_fqzEd7RWqk3G7vaE5YKJClNA&s)
+![sony playstation VR](https://images-na.ssl-images-amazon.com/images/I/61cCP0Tg%2BBL._SX522_.jpg)
 
 This headset is affordable, has a computer level performance and have a variety of games.
   However, these devices have problems with sealing lights, does not have much important accessories and motion controllers are not appealing.
