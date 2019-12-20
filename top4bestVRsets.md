@@ -1,7 +1,7 @@
 ## Top 4 Best Virtual Reality Sets
 There are many companies that make the VR headsets that are way better.
   Here are some of the top 4 best-selling ones.
-    The first one is the **Value Index**.
+    The first one is the **Value Index**. ![value text](https://images-na.ssl-images-amazon.com/images/I/71ZgOpN805L._AC_SL1500_.jpg)
       This device has the widest field of view and has great knuckle controllers, but the Value Index need a high-end GPU and this headset is very expensive.
         The second best selling one is **HTC Vive**. This headset gives off one of the best VR experience and has an popular company, Value as their partner.
           But it made be not for you because it costs a lot of money and needs a high-efficient CPU.
