@@ -1,4 +1,6 @@
 ## The Basics of Virtual Reality
+---
+![Basics of VR](https://r.hswstatic.com/w_640/h_360/gif/videos/future-x-vr.jpg)
 
 _Virtual Reality_ can be really complex in a way of how it’s built today, so here are the basics on how it works.
   The VR set first has a screen in front of each eye that prevents any interactions in reality.
