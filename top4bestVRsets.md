@@ -1,4 +1,4 @@
-## Top 4 Best Virtual Reality Sets
+# Top 4 Best Virtual Reality Sets
 ---
 There are many companies that make the VR headsets that are way better.
   Here are some of the _top 4 best-selling ones_.
@@ -17,6 +17,7 @@ This headset gives off one of the best VR experience and has an popular company,
   But it made be not for you because it costs a lot of money and needs a high-efficient CPU.
 ---
 ### The third selling one is called the **Sony PlayStation VR**.
+
 ![sony playstation VR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUmBcNfVLWptQ0PXM_F38IKCFD_fqzEd7RWqk3G7vaE5YKJClNA&s)
 
 This headset is affordable, has a computer level performance and have a variety of games.
