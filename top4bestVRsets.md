@@ -16,6 +16,8 @@ This device has the widest field of view and has great knuckle controllers, but 
 
 This headset gives off one of the best VR experience and has an popular company, Value as their partner.
   But it made be not for you because it costs a lot of money and needs a high-efficient CPU.
+
+
 ---
 ### The third selling one is called the **Sony PlayStation VR**.
 
