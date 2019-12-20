@@ -6,7 +6,8 @@ There are many companies that make the VR headsets that are way better.
 ---
 ### The first one is the **Value Index**.
 ![value text](https://images-na.ssl-images-amazon.com/images/I/71ZgOpN805L._AC_SL1500_.jpg)
-  This device has the widest field of view and has great knuckle controllers, but the Value Index need a high-end GPU and this headset is very expensive.
+
+This device has the widest field of view and has great knuckle controllers, but the Value Index need a high-end GPU and this headset is very expensive.
 
 ---
 ### The second best selling one is **HTC Vive**.
