@@ -14,6 +14,6 @@ The scrap around the device is to support your eyes and head movements.
   The laser pointers, led lights or mobile sensors that are in the VR set are used to track where the head and eye’s direction is, so you can comfortably use it.
     Sound is produced by 3D sound effects and headphones.
 
-![3D sound effects and headphones](https://spectrum.ieee.org/image/MzIxMTIwNw.jpeg)
+![3D sound effects and headphones](http://sonicscoop.com/wp-content/uploads/2018/02/pic1.png)
 
 
