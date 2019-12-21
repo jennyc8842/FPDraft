@@ -14,3 +14,6 @@ The past VR sets were mostly uncomfortable to wear. Virtual Reality is important
       Virtual Reality started off as a device for an engaging theatre experience that was invented in 1957 and from there on, virtual reality kept on advancing.
 
 ![timeline of VR sets](http://augmentedrealitymarketing.pressbooks.com/wp-content/uploads/sites/62119/2017/08/AR-VR-Timeline.png)
+
+As of today, we are continuing to make VR sets that can be wore more comfortably and engages players to have a smooth experience with it.
+  Hopefully, one day we will be able to use these for not just for entertainment and educational purposes, but for other purposes as well.
