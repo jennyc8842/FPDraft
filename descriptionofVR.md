@@ -8,10 +8,13 @@ Virtual Reality is a technology that allows users to interact with others in a 3
 
 ![VR device back in the day](http://students.expression.edu/thatoneblog/files/2016/08/vhfrsword-of-damocles-jpg-1459515301-BYqc-column-width-inline-800x450.jpg)
 
-The past VR sets were mostly uncomfortable to wear. Virtual Reality is important because it preps for actual changes people want to do, such as if they want a practice run before the real test.
-  It can help them to practice skills people want to learn.
-    In addition, virtual reality also helps people interact with others if they have social problems.
-      Virtual Reality started off as a device for an engaging theatre experience that was invented in 1957 and from there on, virtual reality kept on advancing.
+The past VR sets were mostly uncomfortable to wear as you can see from the image above.
+  Now here are reasons why Virtual Reality is important just like from the past and today.
+    It is mportant because it preps for actual changes people want to do, such as if they want a practice run before the real test.
+      It can help them to practice skills people want to learn.
+        In addition, virtual reality also helps people interact with others if they have social problems.
+          This can include people with autism (they will have challenges in social skills, verbal and non-verbal communication, behavior and sensory and attention problems) and ADHD (have difficulties in paying attention, trouble problem solving and managing impulsive behaviours).
+            Moreover, Virtual Reality originally started off as a device for an engaging theatre experience that was invented in 1957 and from there on, virtual reality kept on advancing.
 
 ![timeline of VR sets](http://augmentedrealitymarketing.pressbooks.com/wp-content/uploads/sites/62119/2017/08/AR-VR-Timeline.png)
 
